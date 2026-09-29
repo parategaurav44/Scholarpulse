@@ -1,0 +1,6 @@
+{
+  "name": "ScholarPulse - Research Paper Topic & Similarity Finder",
+  "description": "Discover emerging research topics, analyze paper similarity across methodology and problem domains, identify research gaps, and benchmark literature with live ArXiv search and AI semantic comparison.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
